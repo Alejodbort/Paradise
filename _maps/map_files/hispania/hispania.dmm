@@ -62188,9 +62188,7 @@
 	},
 /area/shuttle/administration)
 "cip" = (
-/obj/effect/decal/warning_stripes/north{
-	step_x = 1
-	},
+/obj/effect/decal/warning_stripes/north,
 /obj/effect/decal/warning_stripes/west,
 /turf/simulated/floor/plasteel,
 /area/quartermaster/miningdock)
@@ -62199,9 +62197,7 @@
 	dir = 4;
 	pixel_y = 8
 	},
-/obj/effect/decal/warning_stripes/north{
-	step_x = 0
-	},
+/obj/effect/decal/warning_stripes/north,
 /obj/effect/decal/warning_stripes/east,
 /obj/structure/closet/wardrobe/miner,
 /turf/simulated/floor/plasteel,
@@ -96625,9 +96621,7 @@
 /obj/structure/shuttle/engine/propulsion{
 	tag = "icon-propulsion (NORTH)";
 	icon_state = "propulsion";
-	dir = 1;
-	step_x = 0;
-	step_y = 0
+	dir = 1
 	},
 /turf/space,
 /turf/simulated/shuttle/wall{
@@ -97925,9 +97919,7 @@
 /obj/structure/shuttle/engine/propulsion{
 	tag = "icon-propulsion (NORTH)";
 	icon_state = "propulsion";
-	dir = 1;
-	step_x = 0;
-	step_y = 0
+	dir = 1
 	},
 /turf/space,
 /turf/simulated/shuttle/wall{
